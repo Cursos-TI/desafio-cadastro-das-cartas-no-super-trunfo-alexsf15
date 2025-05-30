@@ -1,3 +1,5 @@
+//Criado por Alexssandro de Souza Freitas
+
 #include <stdio.h>
 #include <string.h>
 
